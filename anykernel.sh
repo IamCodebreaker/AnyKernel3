@@ -10,16 +10,11 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=fleur
-device.name2=miel
-device.name3=sea
-device.name4=ocean
 device.name5=rosemary
 device.name6=secret
 device.name7=maltose
-device.name8=vayu
-device.name=bhima
-supported.versions=11.0-14.0
+device.name8=rosemary_p
+supported.versions=11.0-15.0
 supported.patchlevels=
 '; } # end properties
 
